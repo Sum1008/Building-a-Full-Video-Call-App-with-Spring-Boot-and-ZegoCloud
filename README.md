@@ -38,5 +38,6 @@ This project implements a **video calling application** using **Spring Boot** fo
 ---
 Image of output
 ![Screenshot 2024-11-18 143944](https://github.com/user-attachments/assets/2e6b2027-451c-4199-8665-e2e6a0f52386)
+![Screenshot 2024-11-18 143944](https://github.com/user-attachments/assets/c5116cae-afc4-4410-980b-b5c879e48f55)
 
 
