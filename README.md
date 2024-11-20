@@ -43,7 +43,6 @@ Image of output
 ![Screenshot 2024-11-18 143323](https://github.com/user-attachments/assets/eb852063-6806-4e33-8a1c-6d1bcf6ed692)
 ![Screenshot 2024-11-18 143332](https://github.com/user-attachments/assets/170c2109-2b09-4324-80e0-cca2d9a443a5)
 ![Screenshot 2024-11-18 143418](https://github.com/user-attachments/assets/5fd6f634-f9f4-484d-a10a-0f3bf3c5b596)
-![Screenshot 2024-11-18 143438](https://github.com/user-attachments/assets/0f4cf46a-e640-4f96-9a4b-8b74fab21cb1)
 ![Screenshot 2024-11-18 143332](https://github.com/user-attachments/assets/d592eb4b-bb7a-43b3-9d54-34366ba56f2d)
 
 
